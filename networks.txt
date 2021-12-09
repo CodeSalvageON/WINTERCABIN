@@ -5,6 +5,7 @@ Want some simple encryption? Go to MYRDERSHAX: https://github.com/CodeSalvageON/
 If one network is taken down, don't worry about it! There are plenty on here.
 
 -- For general purposes --
+https://2010.vercel.app/
 https://skyscraper-in-the-snow.codesalvageon.repl.co/chat/
 https://people-go-missing-here.codesalvageon.repl.co/
 
