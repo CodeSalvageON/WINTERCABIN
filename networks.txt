@@ -1,14 +1,9 @@
 // WINTERCABIN NETWORKS \\
 --More or less these are the places you should go if you want to be a little discreet.--
-Want some simple encryption? Go to MYRDERSHAX: https://github.com/CodeSalvageON/MYRDERSHAX
-
 If one network is taken down, don't worry about it! There are plenty on here.
 
--- For general purposes --
+https://discord.gg/nBGnytRr8x
 https://2010.vercel.app/
 https://skyscraper-in-the-snow.codesalvageon.repl.co/chat/
 https://people-go-missing-here.codesalvageon.repl.co/
-
--- For School --
 https://botanybay.vercel.app/
-https://raildeady.vercel.app/
